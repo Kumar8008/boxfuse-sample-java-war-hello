@@ -5,6 +5,7 @@
 <body style="text-align: center">
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
+    
 
 <h1>You have successfully launched your Instance!</h1>
     
